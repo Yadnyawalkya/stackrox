@@ -75,7 +75,7 @@
         "react-router-dom-v5-compat": "^6.30.0",
         "react-router-hash-link": "^2.4.3",
         "react-select": "^2.0.0",
-        "react-spinners": "^0.10.4",
+        "react-spinners": "^0.17.0",
         "react-syntax-highlighter": "^15.6.1",
         "react-table-6": "^6.11.0",
         "react-toastify": "^7.0.3",
