@@ -1,7 +1,7 @@
 # ROX-4751 regression test - entrypoint with relative file path causes incorrect process path
 # docker build -t stackrox/qa:ROX4751
 
-FROM ubuntu
+FROM ubuntu:24.04
 RUN mkdir -p test/bin && \
 printf \
 '#!/bin/bash    \n\
